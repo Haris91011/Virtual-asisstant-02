@@ -4,3 +4,4 @@ fastapi==0.99.1
 python-dotenv==1.0.0
 openai==0.27.9
 Streamlit
+streamlit_chat
